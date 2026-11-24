@@ -99,7 +99,7 @@ ONCF-Punctuality-Analysis-PowerBI-/
 │   └── dim_gares_maroc.csv                          # Coordonnées GPS des gares ONCF
 │
 └── powerbi/
-    ├── ONCF_Performance_Dashboard.pbix  # Fichier source Power BI interactif
+    ├── oncf1.pbix  # Fichier source Power BI interactif
     └── oncf_theme.json                  # Charte graphique (Orange & Bleu Ciel)
 ```
 
